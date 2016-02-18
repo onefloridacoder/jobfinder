@@ -18,7 +18,7 @@
   "devDependencies": {
     "bower": "^1.7.7",
     "chai":"^3.5.0",
-    "karma":"^3.7.1",
+    "karma":"^0.13.21",
     "karma-chai":"^0.1.0",
     "karma-mocha":"^0.2.2",
     "karma-chrome-launcher": "^0.2.2",
